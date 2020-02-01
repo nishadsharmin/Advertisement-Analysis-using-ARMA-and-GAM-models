@@ -21,6 +21,10 @@ Cons: It does not account for profitability, and there is still a disconnect bet
 Pros: Measures how effectively the targeting of the ad was in terms of convincing a purchase.
 Cons: Introduces bias based on type of item. Customers are more inclined to impulsively purchase a cheap item than expensive on.
 
+Used to K-Means to cluster ads into 3 groups based on performance
+
+Predicted future performance using GAM and ARMA models
+
 
 
 
